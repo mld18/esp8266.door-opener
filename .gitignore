@@ -1,2 +1,5 @@
 # Dont commit WifiAccessInfo.h
 WifiAccessInfo.h
+
+# Mac OS will generate Thumbs.db files in folders containing images
+doc/Thumbs.db
